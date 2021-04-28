@@ -179,12 +179,15 @@ font-size: 1.5rem;
 
   .card {
 
+    padding: 0px;
+    background-color: #FBFCFC;
+    float: none;
+    box-shadow: 0 5px 12px rgba(0,0,0,0.13), 0 3px 3px rgba(0,0,0,0.16);
     margin-left: 0px;
-    margin-top: 13px;
-  margin-bottom: 3px;
-  justify-content: center;
-  text-align: center;
-  padding: 3px;
+    margin-top: 10px;
+    text-align: center;
+    margin-right: 0px;
+  margin-bottom: 0px;
   }
 
   .title {
@@ -196,6 +199,7 @@ font-size: 1.5rem;
     font-size: 1.2rem;
   }
 
+
   .star {
     font-size: 1.4rem;
   }
@@ -204,6 +208,7 @@ font-size: 1.5rem;
   .download-btn {
     margin-top: 10px;
   }
+
 
   .rating {
     margin-top: 20px;
